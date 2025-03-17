@@ -32,3 +32,7 @@ $ pnpm build:mac
 # For Linux
 $ pnpm build:linux
 ```
+
+## Screenshots
+
+![Play](/screenshots/play.gif?raw=true&sanitize=true 'Play')
