@@ -35,4 +35,4 @@ $ pnpm build:linux
 
 ## Screenshots
 
-![Play](/screenshots/play.gif?raw=true&sanitize=true 'Play')
+![Play](/screenshots/play.gif?raw=true&sanitize=true)
